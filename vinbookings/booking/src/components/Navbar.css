@@ -1,0 +1,56 @@
+.con{
+    text-align:left;  
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(12, 19, 22);
+}
+.hom{
+    
+    color:rgb(248, 242, 242);
+    margin:2px;
+    backface-visibility: visible;
+    white-space: 10px;
+}
+.log{
+    
+    color:#f9f1f1;
+    margin:2px;
+    backface-visibility: visible;
+    white-space: 10px;
+}
+.reg{
+    
+    color:rgb(240, 228, 228);
+    margin:2px;
+    backface-visibility: visible;
+    white-space: 10px;
+}
+.seats{
+   
+    color:rgb(240, 232, 232);
+    margin:2px;
+    backface-visibility: visible;
+    white-space: 10px;
+}
+.pay{
+    
+    color:rgb(241, 236, 236);
+    margin:2px;
+    backface-visibility: visible;
+    white-space: 10px;
+}
+.sec{
+    
+    color:rgb(251, 245, 245);
+    margin:2px;
+    backface-visibility: visible;
+    white-space: 10px;
+}
+.but{
+    border-radius:50%;
+    background-color:rgb(81, 31, 245);
+    opacity: 0.9;
+}
+.but:hover{
+    opacity: 1.0;
+}

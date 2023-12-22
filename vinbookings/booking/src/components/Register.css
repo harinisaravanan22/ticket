@@ -1,0 +1,73 @@
+input[type=text], input[type=password], input[type=Date], input[type=number],input[type=Time],input[type=email],input[type=password]
+ {
+  width:75%;
+  border-radius: 2px;
+  color:black;
+  border-color: rgb(212, 222, 216);
+  margin: 5px;
+  padding: 8px;
+  caret-color:rgb(55, 94, 89);
+  }
+    
+  button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+   
+  }
+  
+  button:hover {
+    opacity:1;
+  }
+ 
+  .signupbtn {
+    float: center;
+    width: 50%;
+  }
+  .containe {
+    background: linear-gradient(to left, #33ccff 0%, #ff99cc 100%);
+    color:black;
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      width: 99vw;
+  }
+  .registration
+  {
+    opacity:0.8;
+    margin:90px 10px 90px 10px;
+    height: 600px;
+    width:40%;
+    color:black;
+      border-radius: 2%;
+     border:1px solid rgb(234, 240, 237);
+     padding: 1px;
+     background-color: transparent;
+  text-align: center;
+
+  } 
+  .registration:hover{
+    opacity: 1.0;
+  }
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  h1{
+    color:rgb(16, 19, 22);
+  }
+  
+  #em{
+    margin-right: 6px;
+  }
+  img{
+   
+    height:100px;
+    width: 300px;
+}
